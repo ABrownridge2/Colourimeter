@@ -3,7 +3,10 @@
 
 <p align="center">Pigment allows you to quickly extract a color palette from any image offline.</p>
 
-<p align="center"><a href='https://flathub.org/apps/com.jeffser.Pigment'><img width='190' alt='Download on Flathub' src='https://flathub.org/api/badge?locale=en'/></a></p>
+<p align="center">
+    <a href='https://flathub.org/apps/com.jeffser.Pigment'><img width='190' alt='Download on Flathub' src='https://flathub.org/api/badge?locale=en'/></a><br><br>
+    <a href='https://snapcraft.io/pigment-jeffser'><img width='190' alt='Download on Flathub' src='https://res.cloudinary.com/canonical/image/fetch/f_svg,q_auto,fl_sanitize,w_182/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Fb16729d2-snap-store-black.svg'/></a>
+</p>
 
 ---
 
