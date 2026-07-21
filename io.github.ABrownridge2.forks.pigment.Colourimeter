@@ -1,5 +1,5 @@
 {
-    "id" : "com.anakinbrownridge.forks.pigment.Colourimeter",
+    "id" : "io.github.ABrownridge2.forks.pigment.Colourimeter",
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
