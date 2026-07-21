@@ -1,24 +1,18 @@
 <p align="center"><img width="128" src="https://jeffser.com/images/pigment/logo.svg">
-<h1 align="center">Pigment</h1>
+<h1 align="center">Colourimeter</h1>
 
-<p align="center">Pigment allows you to quickly extract a color palette from any image offline.</p>
+<p align="center">Colourimeter allows you to quickly extract a color palette from any image offline. Without AI. m</p>
 
 <p align="center">
-    <a href='https://flathub.org/apps/com.jeffser.Pigment'><img width='190' alt='Download on Flathub' src='https://flathub.org/api/badge?locale=en'/></a><br><br>
-    <a href='https://snapcraft.io/pigment-jeffser'><img width='190' alt='Download on Flathub' src='https://res.cloudinary.com/canonical/image/fetch/f_svg,q_auto,fl_sanitize,w_182/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2Fb16729d2-snap-store-black.svg'/></a>
+    <a href='https://flathub.org/apps/com.jeffser.Pigment'><img width='190' alt='Download the original, unforked on Flathub.' src="'https://flathub.org/api/badge?locale=en'/></a><br><br>
+<p align="center"Or, CMake it.. m</p>
 </p>
 
 ---
 
-> [!IMPORTANT]
-> Please be aware that [GNOME Code of Conduct](https://conduct.gnome.org) applies to Pigment before interacting with this repository.
-
 > [!WARNING]
 > AI generated issues and PRs will be denied, repeated offense will result in a ban from the repository.
 
-<p align="center">
-    &#128073; <a href="https://github.com/Jeffser/Alpaca/discussions/793"><b>Initial Annoucement in the Alpaca project</b></a>
-</p>
 
 ## Screenies
 
@@ -41,7 +35,8 @@ flatpak install com.jeffser.Pigment
 
 ### Package
 
-Pigment is distributed with Flatpak - make sure your distribution supports Flatpak before installing Pigment!
+Highly recommended - CMake this app to get Colourimeter
+Also if you want the unforked Pigment, Pigment is distributed with Flatpak-- make sure your distribution supports Flatpak before installing Pigment!
 
 1. Download the latest Flatpak package from the [releases page](https://github.com/Jeffser/Pigment/releases)
 2. Open it
@@ -64,5 +59,5 @@ Language                | Contributors
 🦁 Persian              | [Danial Behzadi](https://github.com/danialbehzadi)
 
 ## Thanks
-
+Thanks to Pigment for the unforked app!
 Made using [ColorThief](https://github.com/fengsp/color-thief-py).
