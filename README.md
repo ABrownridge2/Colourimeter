@@ -1,11 +1,10 @@
 <p align="center"><img width="128" src="https://jeffser.com/images/pigment/logo.svg">
 <h1 align="center">Colourimeter</h1>
 
-<p align="center">Colourimeter allows you to quickly extract a color palette from any image offline. Without AI. m</p>
+<p align="center">Colourimeter allows you to quickly extract a color palette from any image offline. Without AI. </p>
 
 <p align="center">
-    <a href='https://flathub.org/apps/com.jeffser.Pigment'><img width='190' alt='Download the original, unforked on Flathub.' src="'https://flathub.org/api/badge?locale=en'/></a><br><br>
-<p align="center"Or, CMake it.. m</p>
+    <a href='https://flathub.org/apps/com.jeffser.Pigment'><img width='190' alt='Download the original, unforked on Flathub.' src="'https://flathub.org/api/badge?locale=en'/></a><br><br> <p align="center"Or, CMake it.. m</p>
 </p>
 
 ---
