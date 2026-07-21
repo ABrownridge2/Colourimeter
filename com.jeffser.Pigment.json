@@ -1,5 +1,5 @@
 {
-    "id" : "com.jeffser.Pigment",
+    "id" : "com.anakinbrownridge.forks.pigment.Colourimeter",
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
@@ -73,13 +73,13 @@
             ]
 	},
         {
-            "name" : "pigment",
+            "name" : "colourimeter",
             "builddir" : true,
             "buildsystem" : "meson",
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://github.com/Jeffser/Pigment.git",
+                    "url" : "https://github.com/ABrownridge2/Colourimeter.git",
                     "branch": "main"
                 }
             ]
