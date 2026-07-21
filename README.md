@@ -4,7 +4,7 @@
 <p align="center">Colourimeter allows you to quickly extract a color palette from any image offline. Without AI. </p>
 
 <p align="center">
-    <a href='https://flathub.org/apps/com.jeffser.Pigment'><img width='190' alt='Download the original, unforked on Flathub.' src="'https://flathub.org/api/badge?locale=en'/></a><br><br> <p align="center"Or, CMake it.. m</p>
+    <a href='https://flathub.org/apps/com.jeffser.Pigment'><img width='190' alt='Download the original, unforked on Flathub.' src="'https://flathub.org/api/badge?locale=en'/></a><br><br> <p align="center"Or, Meson it.. m</p>
 </p>
 
 ---
@@ -34,7 +34,7 @@ flatpak install com.jeffser.Pigment
 
 ### Package
 
-Highly recommended - CMake this app to get Colourimeter
+Highly recommended!!!!!--- Meson this app to get Colourimeter!!!
 Also if you want the unforked Pigment, Pigment is distributed with Flatpak-- make sure your distribution supports Flatpak before installing Pigment!
 
 1. Download the latest Flatpak package from the [releases page](https://github.com/Jeffser/Pigment/releases)
