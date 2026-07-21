@@ -4,8 +4,8 @@
          xmlns:gnome="http://api.gnome.org/doap-extensions#"
          xmlns="http://usefulinc.com/ns/doap#">
 
-  <name xml:lang="en">Pigment</name>
-  <shortdesc xml:lang="en">Extract color palettes from your images</shortdesc>
+  <name xml:lang="en">Colourimeter (yes I'm canadian)</name>
+  <shortdesc xml:lang="en">osu!, Extract your images in a flash. All built for Fedora Workstation, Zorin OS & more.</shortdesc>
   <homepage rdf:resource="https://jeffser.com/pigment" />
   <bug-database rdf:resource="https://github.com/Jeffser/Pigment/issues"/>
   <programming-language>Python</programming-language>
