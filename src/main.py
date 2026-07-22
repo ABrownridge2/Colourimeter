@@ -73,10 +73,10 @@ class PigmentApplication(Adw.Application):
         dialog.present(self.props.active_window)
 
     def on_about_action(self, *args):
-        about = Adw.AboutDialog(application_name='Pigment',
-                                application_icon='com.jeffser.Pigment',
-                                developer_name='Jeffry Samuel Eduarte Rojas',
-                                version=self.version,
+        about = Adw.AboutDialog(application_name='Colourimeter',
+                                application_icon='',
+                                developer_name='linuxguy123456 (Anakin Brownridge)',
+                                version=based on Pigment (0.5.6.devel),
                                 developers=DEVELOPERS,
                                 copyright=COPYRIGHT,
                                 translator_credits='\n'.join(TRANSLATORS))
